@@ -38,10 +38,8 @@
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/calendar_view.png" width="200" alt="Calendar View"/>
-  <img src="screenshots/time_picker.png" width="200" alt="Time Picker"/>
-  <img src="screenshots/range_selection.png" width="200" alt="Range Selection"/>
-  <img src="screenshots/field_display.png" width="200" alt="Field Display"/>
+  <img src="screenshots/multiselect.gif" width="200" alt="Calendar View"/>
+  <img src="screenshots/singleselect.gif" width="200" alt="Time Picker"/>
 </p>
 
 ## 📋 Usage
